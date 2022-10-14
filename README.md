@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @andrew-pejko
-- 👀 I’m interested in Application Development and Cyber Security
+- 👀 I’m interested in Software Development and Cyber Security
 - 🌱 I’m currently learning Computer Science and Buisness at Wilfrid Laurier University
 - 📫 How to reach me: 
 - Email: andrew.pejko@gmail.com
